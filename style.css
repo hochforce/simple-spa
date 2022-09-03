@@ -12,12 +12,6 @@ body {
   font-size: 1.6rem;
   font-family: sans-serif;
 }
-body.home{
-  
-}
-body.gallery{
-  background-color: antiquewhite;
-}
 
 ul {
   list-style: none;
